@@ -27,10 +27,10 @@
 
 ```
 git pull origin main
-
+git add .
+git commit -m "本次提交内容说明"
+git push origin main
 ```
-
-
 
 
 
